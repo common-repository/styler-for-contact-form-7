@@ -1,0 +1,30 @@
+.cf-styler-box {
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.cf-styler-extend {
+	float: left;
+	margin: 0 20px 20px 0;
+	width: 300px;
+	position: relative;
+}
+.cf-styler-extend img {
+	margin-bottom: 10px;
+	max-width: 100%;
+	height: auto;
+}
+
+.cf-styler-extend-content p {
+	min-height: 60px;
+}
+
+.cf-styler-extend .nf-button {
+	float: right;
+}
+
+.cf-styler-extend .nf-doc-button {
+	float: left;
+}
